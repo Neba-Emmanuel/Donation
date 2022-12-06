@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Donation</string>
+    <string name="welcome_name">Welcome Homer</string>
+    <string name="please_give">Please Give Generously</string>
+    <string name="paypal">paypal</string>
+    <string name="direct">Direct</string>
+    <string name="current_amount">998</string>
+    <string name="amt_direct">999</string>
+    <string name="total_amount">1000</string>
+    <string name="amount">Amount</string>
+    <string name="donate">Donate</string>
+    <string name="total">Total so Far</string>
+    <string name="amount_so_far">$1998</string>
+    <string name="ok">OK</string>
+</resources>
